@@ -1,0 +1,45 @@
+div.heading
+{
+  width : 100%;
+  background-color:rgb(100,100,100);
+  text-align: center;
+  float: left;
+}
+
+div.question
+{
+  width: 100%;
+  text-align: center;
+  float: left;
+  margin-top : 10px;
+  margin-bottom: 10px;
+  padding-bottom: 20px;
+  border-style: double;
+}
+
+input.box
+{
+  width:60%;
+  border-radius: 5px;
+  align-self: center;
+}
+
+button.inputButton
+{
+  width :10%;
+  align-self: center;
+  border-radius: 5px;
+}
+
+table,tr
+{
+  border-style: solid;
+  width : 100%;
+}
+
+ td
+ {
+   width:auto;
+   border-style: ridge;
+   text-align: center;
+ }
